@@ -1,14 +1,14 @@
 # portfolio
 💡 [ Protfolio Project 001] 소프트웨어 신입 개발자 🌱 박서연의 포트폴리오 입니다!
 
-</br>
+
 ## 📌 Intro
 안녕하세요. 소프트웨어 개발자를 꿈꾸는 박서연입니다.
 - 이메일: syys10280@naver.com
 - 블로그: https://velog.io/@tjdus1028
 - 깃헙: https://github.com/syys1028
 
-</br>
+
 ## 📌 Project
 ###  - C, C++ 
 #### 1. DES 구현 프로그램
