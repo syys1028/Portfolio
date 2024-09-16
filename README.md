@@ -47,8 +47,8 @@
 >
 >* 개발 기간: 2022.00.00 ~ 2022.00.00
 >
->* 개발 기술 및 도구: Python / Spyder(anaconda3) / TensorFlow, Keras, OpenCV, CNN
->* 
+>* 개발 기술 및 도구: Python / Spyder (anaconda3) / TensorFlow, Keras, OpenCV, CNN
+
 #### 3. (팀 프로젝트) 멀티모달 장면 검색 시스템 
 
 
