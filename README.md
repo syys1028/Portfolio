@@ -55,9 +55,9 @@
 >
 >* 개발 기술 및 도구 :
 >
->    장면 분석 - Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
+>    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
 >
->    웹 페이지 - HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
+>    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
   
   
 ###  - JAVA
