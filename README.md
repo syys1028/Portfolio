@@ -66,7 +66,7 @@
 >
 >* 개발 기간: 2023.09.18 ~ 2023.09.27
 >
->* 개발 기술 및 도구: Java / Android Studio / SensorManager, Canvas API, MediaPlayer, CountDownTimer
+>* 개발 기술 및 도구: Java / Android Studio / SensorManager, Canvas, MediaPlayer, CountDownTimer
 
 #### 2. [위치기록 앱 제작 프로젝트](https://github.com/syys1028/Location-Recording-App)
 >* 개요 : 사용자의 위치를 기록하고 구글맵을 통해 이동 경로를 시각적으로 보여주는 위치 기록 앱을 개발했습니다. 사용자는 날짜별 이동 기록을 확인할 수 있으며, 웹 호스팅을 이용해 위치 데이터를 MariaDB에 저장하고 관리했습니다. 백그라운드 위치 추적과 경로 검색 기능도 구현했습니다.
