@@ -10,6 +10,43 @@
   
   
 ## 📌 Project
+### 🔖 Python + Node.js + Express
+#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
+>* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
+>
+>* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)
+>
+>* 개발 기술 및 도구 :
+>
+>    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
+>
+>    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
+  
+  
+### 🔖 JAVA
+#### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
+>* 개요: 센서 인식을 바탕으로 사용자가 네모 안에 공을 넣어 다음 단계로 넘어가는 모바일 게임입니다. 각 레벨에서 공과 네모의 크기, 속도가 변화하며, 하드 모드에서는 사라지는 공과 네모 등의 요소로 난이도가 증가합니다.
+>
+>* 개발 기간: 2023.09.18 ~ 2023.09.27
+>
+>* 개발 기술 및 도구: Java / Android Studio / SensorManager, Canvas, MediaPlayer, CountDownTimer
+
+#### 2. [위치기록 앱 제작 프로젝트](https://github.com/syys1028/Location-Recording-App)
+>* 개요 : 사용자의 위치를 기록하고 구글맵을 통해 이동 경로를 시각적으로 보여주는 위치 기록 앱을 개발했습니다. 사용자는 날짜별 이동 기록을 확인할 수 있으며, 웹 호스팅을 이용해 위치 데이터를 MariaDB에 저장하고 관리했습니다. 백그라운드 위치 추적과 경로 검색 기능도 구현했습니다.
+>
+>* 개발 기간 : 2023.10.30 ~ 2023.12.10
+>
+>* 개발 기술 및 도구 : Java / Android Studio / SQLite / iwinv 웹 호스팅, MariaDB, phpMyAdmin / PHP / Google Maps API / Geocoder
+>
+
+#### 3. [(팀 프로젝트) 교통 장애 경고 내비게이션 제작 프로젝트](https://github.com/syys1028/2023-Traffic-Warning-Navigation)
+>* 개요 : 주행 중 도로의 위험 요소(공사현장, 장애물, 낙석, 포트홀, 블랙아이스 등)를 감지하여 실시간으로 사용자에게 경고하는 내비게이션 시스템입니다. 이 시스템은 Jetson을 사용하여 카메라로 촬영된 도로의 위험 요소를 데이터베이스에 저장하고, 그 데이터를 기반으로 지도의 해당 위치에 위험 요소를 표시하며, 위험 요소에 접근할 경우 음성으로 경고합니다.
+>
+>* 개발 기간 : 2023.08.25 ~ 2023.08.27
+>
+>* 개발 기술 및 도구 : Java / Android Studio / MariaDB, phpMyAdmin / Kakao Map API / Text-to-Speech (TTS) 
+>
+
 ### 🔖 C, C++
 #### 1. [술 취한 사람 길찾기 게임 프로젝트](https://github.com/syys1028/Drunk-Man-Game)
 >* 개요 : 술에 취한 사람이 집으로 가는 여정을 자동 및 수동 이동 모드로 시뮬레이션하는 게임입니다. 자동 이동 모드와 수동 이동 모드를 통해 이동하며, 술집에서 시작해 경찰과 저격수 등의 방해를 피해 안전하게 집으로 돌아가는 것이 목표입니다.
@@ -48,39 +85,3 @@
 >
 >* 개발 기술 및 도구: Python / Spyder (anaconda3) / TensorFlow, Keras, OpenCV, CNN
 
-### 🔖 Python + Node.js + Express
-#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
->* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
->
->* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)
->
->* 개발 기술 및 도구 :
->
->    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
->
->    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
-  
-  
-### 🔖 JAVA
-#### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
->* 개요: 센서 인식을 바탕으로 사용자가 네모 안에 공을 넣어 다음 단계로 넘어가는 모바일 게임입니다. 각 레벨에서 공과 네모의 크기, 속도가 변화하며, 하드 모드에서는 사라지는 공과 네모 등의 요소로 난이도가 증가합니다.
->
->* 개발 기간: 2023.09.18 ~ 2023.09.27
->
->* 개발 기술 및 도구: Java / Android Studio / SensorManager, Canvas, MediaPlayer, CountDownTimer
-
-#### 2. [위치기록 앱 제작 프로젝트](https://github.com/syys1028/Location-Recording-App)
->* 개요 : 사용자의 위치를 기록하고 구글맵을 통해 이동 경로를 시각적으로 보여주는 위치 기록 앱을 개발했습니다. 사용자는 날짜별 이동 기록을 확인할 수 있으며, 웹 호스팅을 이용해 위치 데이터를 MariaDB에 저장하고 관리했습니다. 백그라운드 위치 추적과 경로 검색 기능도 구현했습니다.
->
->* 개발 기간 : 2023.10.30 ~ 2023.12.10
->
->* 개발 기술 및 도구 : Java / Android Studio / SQLite / iwinv 웹 호스팅, MariaDB, phpMyAdmin / PHP / Google Maps API / Geocoder
->
-
-#### 3. [(팀 프로젝트) 교통 장애 경고 내비게이션 제작 프로젝트](https://github.com/syys1028/2023-Traffic-Warning-Navigation)
->* 개요 : 주행 중 도로의 위험 요소(공사현장, 장애물, 낙석, 포트홀, 블랙아이스 등)를 감지하여 실시간으로 사용자에게 경고하는 내비게이션 시스템입니다. 이 시스템은 Jetson을 사용하여 카메라로 촬영된 도로의 위험 요소를 데이터베이스에 저장하고, 그 데이터를 기반으로 지도의 해당 위치에 위험 요소를 표시하며, 위험 요소에 접근할 경우 음성으로 경고합니다.
->
->* 개발 기간 : 2023.08.25 ~ 2023.08.27
->
->* 개발 기술 및 도구 : Java / Android Studio / MariaDB, phpMyAdmin / Kakao Map API / Text-to-Speech (TTS) 
->
