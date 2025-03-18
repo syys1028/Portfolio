@@ -8,7 +8,7 @@
 - 블로그: https://velog.io/@tjdus1028
 - 깃헙: https://github.com/syys1028
    
-  
+     
 ## 📌 Project
 ### 🔖 Python + Node.js + Express
 #### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
