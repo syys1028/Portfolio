@@ -16,7 +16,7 @@
 >
 >* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)
 >
->* 개발 기술 및 도구 :
+>* 개발 기술 및 도구 : 
 >
 >    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
 >
