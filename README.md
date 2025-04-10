@@ -24,7 +24,7 @@
   
   
 ### 🔖 JAVA + Spring (Web)
-#### 1. [Spring Boot 백엔드 로드맵 스터디 - 감성 커뮤니티 게시판 『소행성』](https://github.com/syys1028/Board-Service.git)
+#### 1. [Spring Boot 백엔드 로드맵 스터디 - 감성 커뮤니티 게시판『소행성』](https://github.com/syys1028/Board-Service.git)
 >* 개요: 하늘 사진, 위시리스트, 음악 공유, 짧은 한줄 기록 등 일상의 소소한 행복을 카테고리별로 공유하고, 감정 태그를 통해 공감하는 감성 기반 커뮤니티입니다. 로그인, 마이페이지, 좋아요, 댓글, 이미지 업로드, 태그 검색 기능까지 구현했습니다.
 >  
 >* 개발 기간: 2025.02 ~ 진행 중
@@ -32,7 +32,7 @@
 >* 개발 기술 및 도구: Java / Spring Boot / Spring Data JPA / QueryDSL / Spring Security / JWT / MariaDB / AWS S3 / Gradle / IntelliJ
 >  
 
-#### 2. 멀티모달 장면 검색 시스템 - Spring 리팩토링
+#### 2. [멀티모달 장면 검색 시스템 Spring 리팩토링 프로젝트](https://github.com/syys1028/2025-Refactoring-Multimodal-Scenes-Search-Public.git)
 >* 개요 : 기존 Node.js + Express로 구현한 멀티모달 장면 검색 시스템을 Spring Boot 기반으로 리팩토링한 프로젝트입니다. 영상에서 자막, 음성, 장소 정보를 분석해 특정 장면을 검색할 수 있는 시스템으로, 기존 Node.js + Express 기반 서버를 Spring Boot로 전환해 회원별 데이터 관리와 검색 기능을 구현했습니다.
 >  
 >* 개발 기간 : 2025.01 ~ 진행 중
