@@ -29,7 +29,9 @@
 
 개발 기간: 2025.02 ~ 진행 중
 
-개발 기술 및 도구: Java 17 / Spring Boot 3.4.x / Spring Data JPA / QueryDSL / Spring Security / JWT / MariaDB / AWS S3 / Gradle / IntelliJ
+개발 기술 및 도구: Java / Spring Boot / Spring Data JPA / QueryDSL / Spring Security / JWT / MariaDB / AWS S3 / Gradle / IntelliJ
+
+
 
 ### 🔖 JAVA (Android)
 #### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
