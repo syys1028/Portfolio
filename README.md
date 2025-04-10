@@ -28,6 +28,19 @@
 >* 개발 기술 및 도구 : Java / Spring Boot / Spring Security / JWT / MySQL / Gradle / IntelliJ
 >  
 
+### 🔖 Python + Node.js + Express
+#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
+>* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
+>
+>* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)  
+>
+>* 개발 기술 및 도구 : 
+>
+>    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
+>
+>    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
+
+
 ### 🔖 JAVA (Android)
 #### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
 >* 개요: 센서 인식을 바탕으로 사용자가 네모 안에 공을 넣어 다음 단계로 넘어가는 모바일 게임입니다. 각 레벨에서 공과 네모의 크기, 속도가 변화하며, 하드 모드에서는 사라지는 공과 네모 등의 요소로 난이도가 증가합니다.
@@ -51,18 +64,6 @@
 >
 >* 개발 기술 및 도구 : Java / Android Studio / MariaDB, phpMyAdmin / Kakao Map API / Text-to-Speech (TTS) 
 >
-
-### 🔖 Python + Node.js + Express
-#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
->* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
->
->* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)  
->
->* 개발 기술 및 도구 : 
->
->    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
->
->    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
 
   
 ### 🔖 Python
