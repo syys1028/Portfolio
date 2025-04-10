@@ -23,7 +23,15 @@
 >    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
   
   
-### 🔖 JAVA
+### 🔖 JAVA - Web
+#### 1. [Spring Boot 백엔드 로드맵 스터디 - 감성 커뮤니티 게시판 『소행성』]
+개요: 하늘 사진, 위시리스트, 음악 공유, 짧은 한줄 기록 등 일상의 소소한 행복을 카테고리별로 공유하고, 감정 태그를 통해 공감하는 감성 기반 커뮤니티입니다. 로그인, 마이페이지, 좋아요, 댓글, 이미지 업로드, 태그 검색 기능까지 구현했습니다.
+
+개발 기간: 2024.11 ~ 진행 중
+
+개발 기술 및 도구: Java 17 / Spring Boot 3.4.x / Spring Data JPA / QueryDSL / Spring Security / JWT / MariaDB / AWS S3 / Gradle / IntelliJ
+
+### 🔖 JAVA - Android
 #### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
 >* 개요: 센서 인식을 바탕으로 사용자가 네모 안에 공을 넣어 다음 단계로 넘어가는 모바일 게임입니다. 각 레벨에서 공과 네모의 크기, 속도가 변화하며, 하드 모드에서는 사라지는 공과 네모 등의 요소로 난이도가 증가합니다.
 >
