@@ -10,18 +10,6 @@
    
      
 ## 📌 Project
-### 🔖 Python + Node.js + Express
-#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
->* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
->
->* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)  
->
->* 개발 기술 및 도구 : 
->
->    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
->
->    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
-  
   
 ### 🔖 JAVA + Spring (Web)
 #### 1. [(백엔드 로드맵 스터디) 감성 커뮤니티 제작 프로젝트](https://github.com/syys1028/Board-Service.git)
@@ -64,6 +52,35 @@
 >* 개발 기술 및 도구 : Java / Android Studio / MariaDB, phpMyAdmin / Kakao Map API / Text-to-Speech (TTS) 
 >
 
+### 🔖 Python + Node.js + Express
+#### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
+>* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
+>
+>* 개발 기간 : 2024.08.23 ~ 2024.08.25, (update 2024.09)  
+>
+>* 개발 기술 및 도구 : 
+>
+>    - 장면 분석 : Python / Jupyter Notebook, Visual Studio Code / MySQL / OpenCV, PaddleOCR, Whisper, Place365, YOLOv8, Google Cloud API (Speech-to-Text, Translate)
+>
+>    - 웹 페이지 : HTML, CSS, JavaScript / Visual Studio Code / Node.js, Express, PHP
+
+  
+### 🔖 Python
+#### 1. [RSA 구현 프로그램](https://github.com/syys1028/RSA-project)
+>* 개요 : RSA 암호화 알고리즘을 구현하고, 입력한 텍스트 메시지를 암호화 및 복호화하는 프로그램입니다.
+>
+>* 개발 기간 : 2021.10.15 ~ 2021.10.30, (update 2024.09)
+>
+>* 개발 기술 및 도구 : Python / PyCharm / RSA 암호화 알고리즘
+   
+#### 2. [사용자 맞춤형 광고 추천 프로젝트](https://github.com/syys1028/Ad-Recommand-Project)
+>* 개요: 사용자 정보(성별, 연령대, 관심 상품)와 구매한 상품 이미지를 분석하여 맞춤형 광고를 추천하는 시스템을 구현하였습니다. CNN을 이용한 이미지 분류 모델을 통해 구매한 상품을 분류하고, 입력한 정보를 활용해 사용자에게 적합한 광고를 제공합니다.
+>
+>* 개발 기간: 2022.06.08 ~ 2022.06.22, (update 2024.09)
+>
+>* 개발 기술 및 도구: Python / Spyder (anaconda3) / TensorFlow, Keras, OpenCV, CNN
+
+
 ### 🔖 C, C++
 #### 1. [술 취한 사람 길찾기 게임 프로젝트](https://github.com/syys1028/Drunk-Man-Game)
 >* 개요 : 술에 취한 사람이 집으로 가는 여정을 자동 및 수동 이동 모드로 시뮬레이션하는 게임입니다. 자동 이동 모드와 수동 이동 모드를 통해 이동하며, 술집에서 시작해 경찰과 저격수 등의 방해를 피해 안전하게 집으로 돌아가는 것이 목표입니다.
@@ -86,19 +103,4 @@
 >
 >* 개발 기술 및 도구 : C++ / Visual Studio 2019 / 퀸-맥클러스키 알고리즘
   
-  
-### 🔖 Python
-#### 1. [RSA 구현 프로그램](https://github.com/syys1028/RSA-project)
->* 개요 : RSA 암호화 알고리즘을 구현하고, 입력한 텍스트 메시지를 암호화 및 복호화하는 프로그램입니다.
->
->* 개발 기간 : 2021.10.15 ~ 2021.10.30, (update 2024.09)
->
->* 개발 기술 및 도구 : Python / PyCharm / RSA 암호화 알고리즘
-   
-#### 2. [사용자 맞춤형 광고 추천 프로젝트](https://github.com/syys1028/Ad-Recommand-Project)
->* 개요: 사용자 정보(성별, 연령대, 관심 상품)와 구매한 상품 이미지를 분석하여 맞춤형 광고를 추천하는 시스템을 구현하였습니다. CNN을 이용한 이미지 분류 모델을 통해 구매한 상품을 분류하고, 입력한 정보를 활용해 사용자에게 적합한 광고를 제공합니다.
->
->* 개발 기간: 2022.06.08 ~ 2022.06.22, (update 2024.09)
->
->* 개발 기술 및 도구: Python / Spyder (anaconda3) / TensorFlow, Keras, OpenCV, CNN
 
