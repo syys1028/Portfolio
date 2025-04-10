@@ -31,7 +31,12 @@
 
 개발 기술 및 도구: Java / Spring Boot / Spring Data JPA / QueryDSL / Spring Security / JWT / MariaDB / AWS S3 / Gradle / IntelliJ
 
+#### 2. 멀티모달 장면 검색 시스템 - Spring 리팩토링
+개요 : 기존 Node.js + Express로 구현한 멀티모달 장면 검색 시스템을 Spring Boot 기반으로 리팩토링한 프로젝트입니다. 영상에서 자막, 음성, 장소 정보를 분석해 특정 장면을 검색할 수 있는 시스템으로, 기존 Node.js + Express 기반 서버를 Spring Boot로 전환해 회원별 데이터 관리와 검색 기능을 구현했습니다.
 
+개발 기간 : 2025.01 ~ 진행 중
+
+개발 기술 및 도구 : Java / Spring Boot / Spring Security / JWT / MySQL / Gradle / IntelliJ
 
 ### 🔖 JAVA (Android)
 #### 1. [모바일 미니 게임 제작 프로젝트](https://github.com/syys1028/Android-Mini-Game)
