@@ -5,7 +5,7 @@
 ## 📌 Intro
 안녕하세요. 소프트웨어 개발자를 꿈꾸는 박서연입니다.  
 - 이메일: syys10280@naver.com
-- 블로그: https://velog.io/@tjdus1028
+- 블로그: https://velog.io/@tjdus1028 (작성중)
 - 깃헙: https://github.com/syys1028
    
      
@@ -23,7 +23,7 @@
 #### 2. [멀티모달 장면 검색 시스템 - Spring 리팩토링 프로젝트](https://github.com/syys1028/2025-Multimodal-Scenes-Search-Refactoring.git)
 >* 개요 : 기존 Node.js + Express로 구현한 멀티모달 장면 검색 시스템을 Spring Boot 기반으로 리팩토링한 프로젝트입니다. 영상에서 자막, 음성, 장소 정보를 분석해 특정 장면을 검색할 수 있는 시스템으로, 기존 Node.js + Express 기반 서버를 Spring Boot로 전환해 회원별 데이터 관리와 검색 기능을 구현했습니다.
 >  
->* 개발 기간 : 2025.01 ~ 진행 중
+>* 개발 기간 : 진행 예정
 >  
 >* 개발 기술 및 도구 : Java / Spring Boot / Spring Security / JWT / MySQL / Gradle / IntelliJ
 >  
