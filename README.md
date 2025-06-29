@@ -26,7 +26,15 @@
 >* 개발 기간 : 진행 예정
 >  
 >* 개발 기술 및 도구 : Java / Spring Boot / Spring Security / JWT / MySQL / Gradle / IntelliJ
+>
+
+#### 3. [인프런 워밍업 클럽 스터디 4기 - 클린 코드 & 테스트 코드](https://github.com/syys1028/readable-code-clone)
+>* 개요 : 인프런 워밍업 클럽 스터디 4기 백엔드 과정에서 진행된 클린 코드와 테스트 코드 집중 학습 프로젝트입니다. 강의와 미션을 통해 읽기 좋은 코드의 구조와 리팩토링 기법, 테스트, TDD 등을 실습했습니다.
 >  
+>* 개발 기간 : 2025.05.26 ~ 2025.06.27
+>  
+>* 개발 기술 및 도구 : Java / JUnit5 / Mockito / Gradle / IntelliJ / Git
+>
 
 ### 🔖 Python + Node.js + Express
 #### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
