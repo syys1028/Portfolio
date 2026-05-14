@@ -36,6 +36,14 @@
 >* 개발 기술 및 도구 : Java / JUnit5 / Mockito / Gradle / IntelliJ / Git
 >
 
+#### 4. [인턴 조별과제 - 기상 레이어 자동 생성 모듈](https://github.com/ALLFORLAND-GROUP1/Data-Module)
+>* 개요 : 기상 데이터를 지도 레이어로 자동 발행하기 위한 백엔드 데이터 파이프라인 모듈을 담당했습니다. Spring Scheduler로 기상 데이터를 수집하고, Python 기반 GeoTIFF 생성 모듈과 GeoServer ImageMosaic을 연동하여 시계열 기상 래스터 데이터를 자동 생성·갱신하도록 구현했습니다.
+>  
+>* 개발 기간 : 2025.10.01 ~ 2025.12.12
+>  
+>* 개발 기술 및 도구 : Java / Spring Boot / Scheduler / PostgreSQL(PostGIS) / Python / GeoTIFF / GeoServer(ImageMosaic) / Conda
+>
+
 ### 🔖 Python + Node.js + Express
 #### 1. [(팀 프로젝트) 멀티모달 장면 검색 시스템](https://github.com/syys1028/2024-Multimodal-Scenes-Search)
 >* 개요 : OTT와 VOD 서비스에서 사용자가 특정 장면을 쉽게 검색하고 다시 볼 수 있도록 멀티모달 기술을 활용한 시스템을 개발했습니다. 동영상에서 자막, 음성, 장면을 분석하여 텍스트로 추출하고, 이를 통해 키워드를 검색하면 영상과 타임스탬프를 제공해 해당 장면을 재생할 수 있습니다. 이 시스템은 다양한 검색 조건(장소, 인물, 자막 등)을 사용하여 동영상을 효율적으로 탐색할 수 있게 합니다.
